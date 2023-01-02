@@ -1,4 +1,3 @@
-name: microcdr
 build:
-  cmake: zephyr
-  kconfig: zephyr/Kconfig
+  cmake-ext: True
+  kconfig-ext: True
